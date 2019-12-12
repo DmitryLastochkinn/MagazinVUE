@@ -1,4 +1,4 @@
-# magazin
+# magazin on VUE framework
 
 ## Project setup
 ```
